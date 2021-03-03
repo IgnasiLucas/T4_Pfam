@@ -14,15 +14,15 @@ una introducció al funcionament bàsic del terminal BASH.
 
 Els continguts inclouen, a banda d'aquest README.md, els arxius següents:
 
-Arxiu                      Descripció
-------------------------   -------------
-ACAS_N_seed.sto            Alineament inicial del domini ACAS_N en format Stockholm.
-AMP-binding_seed.sto       Alineament inicial del domini AMP-binding en format Stockholm.
-dominios.sh                Script de bash d'exemple que executa els passos de la pràctica.
-GH3_seed.sto               Alineament inicial del domini GH3 en format Stockholm.
-guion.ipynb                Quadern o guió de la pràctica, en castellà.
-install.R                  Arxiu necessari per instal·lar el paquet de R que cal.
-LuxE_seed.sto              Alineament inicial del domini LuxE, en format Stockholm.
-runtime.txt                Arxiu amb la data de referència per la versió de R a instal·lar.
-Salinibacter_ruber.fasta   Arxiu fasta amb totes les seqüències proteiques codificades al genoma de *Salinibacter ruber*.
+| Arxiu                    | Descripció                                                                                     | 
+| ------------------------ |:---------------------------------------------------------------------------------------------- |
+| ACAS_N_seed.sto          | Alineament inicial del domini ACAS_N en format Stockholm.                                      |
+| AMP-binding_seed.sto     | Alineament inicial del domini AMP-binding en format Stockholm.                                 |
+| dominios.sh              | Script de bash d'exemple que executa els passos de la pràctica.                                |
+| GH3_seed.sto             | Alineament inicial del domini GH3 en format Stockholm.                                         |
+| guion.ipynb              | Quadern o guió de la pràctica, en castellà.                                                    |
+| install.R                | Arxiu necessari per instal·lar el paquet de R que cal.                                         |
+| LuxE_seed.sto            | Alineament inicial del domini LuxE, en format Stockholm.                                       |
+| runtime.txt              | Arxiu amb la data de referència per la versió de R a instal·lar.                               |
+| Salinibacter_ruber.fasta | Arxiu fasta amb totes les seqüències proteiques codificades al genoma de *Salinibacter ruber*. |
 
